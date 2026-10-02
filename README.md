@@ -6,7 +6,7 @@ Analisi spaziale completa dei comuni italiani per comprendere la relazione tra s
 
 ## 🗺️ Mappa interattiva
 
-👉 [Visualizza la mappa](https://sportbusinesslabconsultancy.github.io/Analisi-Comuni-Spopolamento/Mappa%20spopolamento%20-%20mobilit%C3%A0.html)
+👉 [Visualizza la mappa](https://sportbusinesslabconsultancy.github.io/Analisi_Comuni_Spopolamento/Mappa%20spopolamento%20-%20mobilit%C3%A0.html)
 
 ---
 
